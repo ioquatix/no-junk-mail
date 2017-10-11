@@ -2,7 +2,7 @@
 
 A "No Junk Mail" sign for your letter box using a stencil font.
 
-![No Junk Mail](photos/IMG_xyz.jpg)
+![No Junk Mail](photos/IMG_9469.jpg)
 
 ## Motivation
 
@@ -15,8 +15,6 @@ I had stickers on my mail box, or permanent marker, and they fell off/faded. I g
 ## Instructions
 
 Print the sign, mark and drill appropriate holes, and mount.
-
-	![No Junk Mail Attached](photos/IMG_xyz.jpg)
 
 ## Contributing
 
