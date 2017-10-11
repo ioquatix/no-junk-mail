@@ -19,4 +19,7 @@ difference() {
 	translate([96, 12, 0]) countersunk_hole(depth=2);
 	translate([-96, -12, 0]) countersunk_hole(depth=2);
 	translate([96, -12, 0]) countersunk_hole(depth=2);
+	
+	translate([-47, 0, 0]) countersunk_hole(depth=2);
+	translate([23, 0, 0]) countersunk_hole(depth=2);
 }

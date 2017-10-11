@@ -10,7 +10,7 @@ I had stickers on my mail box, or permanent marker, and they fell off/faded. I g
 
 ## Parts Required
 
-- 4x Countersunk M3 Bolts + Nuts 6mm+ suggested but depends on backing thickness.
+- 6x Countersunk M3 Bolts + Nuts 6mm+ suggested but depends on backing thickness.
 
 ## Instructions
 
